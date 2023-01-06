@@ -18,3 +18,5 @@ try:
 finally:
 	file.close()
 	result.close()
+
+	#mysql connector
